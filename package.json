@@ -1,0 +1,13 @@
+{
+  "name": "electron-with-create-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "electron": "^1.4.14"
+  },
+  "main": "src/electron-starter.js",
+  "scripts": {
+    "start": "electron .",
+    "electron": "electron ."
+  }
+}
